@@ -1,2 +1,2 @@
 # Verylittlehttpserver
-jiust for study
+just for study
